@@ -6,9 +6,37 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "ruyi": {
+      "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
+    },
+     "suon": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼"
+    },
+     "haohuazy": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华"
+    },
+     "ukuapi88": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源网"
+    },
+     "niuniuzy": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
+    },
+     "xinlangapi": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+     "huyaapi": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+    "taopianapi": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
